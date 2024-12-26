@@ -43,7 +43,13 @@ Bienvenue dans le script de création de marchés pour FiveM ! Ce script utilise
 ---
 
 ## 📸 Aperçu
-*(Ajoutez des captures d'écran ou GIFs ici si nécessaire)*
+[Preview](https://streamable.com/izng2w)
+![image](https://github.com/user-attachments/assets/94ef7804-153b-412c-ba91-b6c2c47101f3)
+![image](https://github.com/user-attachments/assets/79334eee-cb5b-4f56-9858-7e889f9c585f)
+![image](https://github.com/user-attachments/assets/26b82e38-7519-4ea8-9402-f6976ae5c7fd)
+![image](https://github.com/user-attachments/assets/2706a37e-7729-49c2-86da-a4e61b2ab3b4)
+![image](https://github.com/user-attachments/assets/2370d753-fda8-4d57-a80a-436558d9c644)
+
 
 ---
 
