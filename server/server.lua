@@ -154,13 +154,6 @@ MySQL.ready(function()
     TriggerClientEvent('updateMarkets', -1, Markets)
 end)
 
-Citizen.CreateThread(function()
-    while true do
-        TriggerClientEvent('updateMarkets', -1, Markets)
-        Citizen.Wait(15000)
-    end
-end)
-
 
 RegisterNetEvent("market:server:deletemarket", function(name)
     Markets[name] = nil
